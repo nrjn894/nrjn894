@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nrjn894
+- 👋 Hi, I’m Niranjan
 - 👀 I’m interested in Coding and making fun and useful projects.
 - 🌱 I’m currently learning Algorithms and Linux OS.
 
